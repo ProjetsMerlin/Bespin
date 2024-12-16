@@ -1,8 +1,8 @@
 # Bespin
-Bespin est le thème Wordpress de ce projet ci : [bespin.lintermediaire.be](bespin.lintermediaire.be)
+Bespin est le thème Wordpress de ce projet : [bespin.lintermediaire.be](bespin.lintermediaire.be)
+Il s'agit d'un thème Wordpress présentant quelque outils fait maison et ainsi accessible en ligne.
 
 ## Description:
-
 Ce thème prévoit l'affichage customisé en frontend :
 
 - D'une page d'accueil (affichant les derniers articles), 
