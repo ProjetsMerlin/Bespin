@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*
+Theme Name: Bespin
+Theme URI: https://lintermediaire.be
+Author: Merlin Vandenhulle
+Author URI: https://lintermediaire.be/merlin
+Description: Ce thème prévoit l'affichage customisé en frontend : D'une page d'accueil (affichant les derniers articles), d'une page représentant les archives (catégories ou d'étiquettes), d'une page de l'article seul, d'une page statique (exemple : /a-propos), d'une page "customisée" (exemple : /apercu), d'une page "auteur", d'une page erreur 404 et d'une page de résultat de la recherche
+dequires at least: 6
+Version: 1.0
+License: free
+License URI: https://lintermediaire.be/bespin
+Tags: menus, posts, catégories, pages, authors 
+*/

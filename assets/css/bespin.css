@@ -1,0 +1,100 @@
+form {
+    width: 100%;
+}
+
+input[type="text"],
+input[type="mail"],
+input[type="number"],
+textarea,
+select {
+    display: block;
+    padding: 8px 12px!important;
+    width: 100%;
+    height: 40px;
+    border: 1px solid grey;
+}
+
+textarea {
+    height: 210px;
+}
+
+button,
+.btn {
+    padding: 8px 12px;
+    background: #ea580c;
+    color: white;
+}
+
+.icon_category svg {
+    width: 24px;
+    fill : white;
+}
+
+.bg_composants {
+    background: black;
+}
+
+.bg_wordpress {
+    background: blue;
+}
+
+.bg_seo {
+    background: purple;
+}
+
+.bg_securite {
+    background: green;
+}
+
+.bg_generateur {
+    background: red;
+}
+
+.bg_orange {
+    background: #ea580c;
+}
+
+.bg_content {
+    background: black;
+}
+
+.card {
+    min-height: 130px;
+}
+
+.menu li {
+    margin-right: 24px;
+}
+
+#html ul li,
+.description ul li {
+    margin-left: 24px;
+    list-style: circle;
+}
+
+#html a {
+    color: #ea580c;
+}
+
+#html a:hover,
+#html a:active {
+    text-decoration: underline;
+}
+
+.copy {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+}
+
+.copy svg {
+    width: 24px;
+    height: 24px;
+    fill: white;
+    cursor: pointer;
+}
+
+.copy:hover svg,
+.copy:active svg {
+    fill: #ea580c;
+}
